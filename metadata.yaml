@@ -1,0 +1,34 @@
+_repo: Submarine-and-Anti-submarine_52425
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wilkinson, Norman
+    birthdate: 1882
+    deathdate: 1934
+    gutenberg_agent_id: '44964'
+    url: http://www.gutenberg.org/2009/agents/44964
+creator:
+  author:
+    agent_name: Newbolt, Henry John, Sir
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '5279'
+    url: http://www.gutenberg.org/2009/agents/5279
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Newbolt
+description: ''
+gutenberg_issued: '2016-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52425'
+  lccn: '19004419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- !lcsh 'Submarines (Ships)'
+- !lcc 'D501'
+- GITenberg
+title: Submarine and Anti-submarine
+url: http://www.gutenberg.org/ebooks/52425
